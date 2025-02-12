@@ -1,4 +1,4 @@
-## **Hey, I'm Alex!** 👋
+## Hey, I'm Alex! 👋
 
 ### 🚀 Junior Software Developer | _ex-Chef_ 🔪
 
