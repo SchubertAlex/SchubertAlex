@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 Junior Software Developer | _ex-Chef_ 🔪
 
-I'm a **Junior Software Developer** with a passion for building user-friendly frontend applications. 
+I'm a **Junior Software Developer** with a passion for building user-friendly frontend applications.
 <br />
 After five years in high-pressure kitchens, I traded my chef's knife for a keyboard and haven't looked back! 
 <br />
